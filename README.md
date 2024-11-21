@@ -1,14 +1,14 @@
 # Bonjour! 👋 I'm [M Praditya Maulana](https://github.com/mpradityamaulana)
 
-I am a passionate computer engineer who loves exploring new technologies, solving challenges, and building innovative solutions. Currently, I am actively working on projects related to **IoT** and **Machine Learning**
+I am a passionate computer engineer who loves exploring new technologies, solving challenges, and building innovative solutions. Currently, I am actively working on projects related to **IoT** and **Machine Learning**.
 
 ---
 
 ## 🌟 Key Skills:
-- **Programming Languages**: Python, PHP, and C++
+- **Programming Languages**: Python, PHP, and C++.
 - **Frameworks**: Laravel and Node.js
-- **IoT Development**: ESP32
-- **Databases**: MySQL and MongoDB
+- **IoT Development**: ESP32.
+- **Databases**: MySQL and MongoDB.
 
 ---
 
