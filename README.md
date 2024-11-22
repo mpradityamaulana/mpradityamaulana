@@ -13,7 +13,7 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 ---
 
 ## 🔭 Current Projects:
-- Currently nothing.
+- Solenoid and pump movement system using ESP32.
 
 ---
 
