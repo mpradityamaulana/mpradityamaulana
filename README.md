@@ -6,7 +6,7 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 
 ## 🌟 Key Skills:
 - **Programming Languages**: Python, PHP, and C++.
-- **Frameworks**: Laravel and Node.js
+- **Frameworks**: Laravel and CodeIgniter.
 - **IoT Development**: ESP32.
 - **Databases**: MySQL and MongoDB.
 
