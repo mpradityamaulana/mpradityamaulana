@@ -12,8 +12,8 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 
 ---
 
-## 🌱 What I'm Learning:
-- Currently nothing.
+## 🌱 Current Projects:
+- Solenoid and pump movement system using ESP32.
 
 ---
 
