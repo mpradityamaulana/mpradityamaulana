@@ -7,14 +7,8 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 ## 🌟 Key Skills:
 - **Programming Languages**: Python, PHP, and C++.
 - **Frameworks**: Laravel and CodeIgniter.
-- **IoT Development**: ESP32.
+- **IoT Development**: ESP32 and Arduino.
 - **Databases**: MySQL and MongoDB.
-
----
-
-## 🔭 Current Projects:
-- Solenoid and pump movement system using ESP32.
-- Boston house price predictor.
 
 ---
 
