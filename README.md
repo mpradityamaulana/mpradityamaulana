@@ -8,7 +8,7 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 - **Programming Languages**: Python, PHP, and C++.
 - **Frameworks**: Laravel and CodeIgniter.
 - **IoT Development**: ESP32 and Arduino.
-- **Databases**: MySQL and MongoDB.
+- **Databases**: MySQL, PostgreSQL, and MongoDB.
 
 ---
 
