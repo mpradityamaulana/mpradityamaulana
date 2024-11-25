@@ -1,4 +1,4 @@
-# Bonjour! 👋 I'm [M Praditya Maulana](https://github.com/mpradityamaulana)
+# Bonjour! 👋 I'm [M. Praditya Maulana](https://github.com/mpradityamaulana)
 
 I am a passionate computer engineer who loves exploring new technologies, solving challenges, and building innovative solutions. Currently, I am actively working on projects related to **IoT** and **Machine Learning**.
 
