@@ -14,6 +14,7 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 
 ## 🌱 Current Projects:
 - Solenoid and pump movement system using ESP32.
+- Blink an LED with ESP32.
 
 ---
 
