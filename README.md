@@ -1,4 +1,4 @@
-# Bonjour! 👋 I'm [M. Praditya Maulana](https://github.com/mpradityamaulana)
+# Bonjour! 👋 I'm [Muhammad Praditya Maulana](https://github.com/mpradityamaulana)
 
 I am a passionate computer engineer who loves exploring new technologies, solving challenges, and building innovative solutions. Currently, I am actively working on projects related to **IoT** and **Machine Learning**.
 
@@ -25,7 +25,7 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 
 Merci pour visite mon profil! Feel free to reach out if you're interested in collaboration or discussing technology.
 
-11 December 2024.
+12 December 2024.
 <!---
 mpradityamaulana/mpradityamaulana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
