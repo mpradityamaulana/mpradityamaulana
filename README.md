@@ -23,7 +23,7 @@ I am a passionate computer engineer who loves exploring new technologies, solvin
 
 Merci pour visite mon profil! Feel free to reach out if you're interested in collaboration or discussing technology.
 
-27 February 2024.
+28 February 2024.
 <!---
 mpradityamaulana/mpradityamaulana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
